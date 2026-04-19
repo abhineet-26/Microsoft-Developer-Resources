@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_7bf63a.jpg" alt="Abhineet Microsoft Hub" width="100%" />
+  <img src="banner.jpg" alt="Abhineet Microsoft Hub" width="100%" />
 </p>
 
 # 📘 The Microsoft Student Developer Hub
